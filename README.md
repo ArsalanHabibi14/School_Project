@@ -1,2 +1,2 @@
 # School_Project
-It is a Project for school that can add student to the database
+It is a Persian Project for school that can add student to the database
